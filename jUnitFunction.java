@@ -1,6 +1,5 @@
 package jUnitTestingPackage;
-//AADI JAIN
-//E20CSE326
+
 public class jUnitFunction {
 	public int AddNumbers(int a, int b){
 		int sum = a + b;
@@ -12,3 +11,4 @@ public class jUnitFunction {
 		return f;
 	}
 }
+
