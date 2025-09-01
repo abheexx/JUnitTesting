@@ -1,6 +1,5 @@
 package jUnitTestingPackage;
-//AADI JAIN
-//E20CSE326
+
 import static org.junit.Assert.*;
 
 import org.junit.Test;
@@ -15,3 +14,4 @@ public class testAddStrings {
 	}
 
 }
+
